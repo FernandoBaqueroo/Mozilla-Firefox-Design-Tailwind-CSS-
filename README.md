@@ -1,5 +1,5 @@
 # Mozilla-Firefox-Design-Tailwind-CSS-
-Este proyecto, qie representa el proyecto de final de curso de TailwindCSS, es una réplica de la interfaz de usuario de Firefox utilizada para practicar y estudiar TailwindCSS, creada completamente con Tailwind CSS. El objetivo es recrear la apariencia visual del navegador Firefox utilizando solo las utilidades de estilo proporcionadas por Tailwind CSS, sin el uso de CSS personalizado o frameworks adicionales.
+Este proyecto, que representa el proyecto de final de curso de TailwindCSS, es una réplica de la interfaz de usuario de Firefox utilizada para practicar y estudiar TailwindCSS, creada completamente con Tailwind CSS. El objetivo es recrear la apariencia visual del navegador Firefox utilizando solo las utilidades de estilo proporcionadas por Tailwind CSS, sin el uso de CSS personalizado o frameworks adicionales.
 
 ## Características
 
